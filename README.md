@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicolò Bellarmino a PhD student in Computer and Control Engineering!
-- 👀 I’m interested in technology, data analysis, machine learning, microcontrolles and many other!
-- 🌱 I’m currently learning how to develop machine learning/AI based systems
+- 👋 Hi, I’m Nicolò Bellarmino, PhD student in Computer and Control Engineering (Politecnico di Torino)!
+- 👀 I’m interested in technology, data analysis, machine learning, microcontrollers, and many others!
+- 🌱 I’m currently learning how to develop machine learning/AI-based systems
 - 📫 How to reach me: nicolo.bellarmino@polito.it
 
 <!---
