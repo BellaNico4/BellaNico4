@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nicolò Bellarmino, PhD student in Computer and Control Engineering (Politecnico di Torino)!
-- 👀 I’m interested in technology, data analysis, machine learning, microcontrollers, and many others!
-- 🌱 I’m currently learning how to develop machine learning/AI-based systems
-- 📫 How to reach me: nicolo.bellarmino@polito.it
+- Hi, I'm Nicolò — PhD in Computer and Control Engineering and currently a Post-Doc at Politecnico di Torino.
+- My interests span technology, data analysis, machine learning, microcontrollers, and beyond.
+- I’m currently focused on developing ML/AI-based systems and exploring their applications in real-world scenarios.
+- Feel free to reach out: nicolo.bellarmino@polito.it
 
 <!---
 BellaNico4/BellaNico4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
